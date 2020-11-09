@@ -8,3 +8,13 @@ C:\Box Sync\SLN\Per\Apps\MultiTaskingWindowsAppSample\MultiTaskingWindowsAppSamp
 C:\Box Sync\SLN\Per\Apps\MultiTaskingWindowsAppSample\MultiTaskingWindowsAppSample\obj\Debug\MultiTaskingWindowsAppSample.exe
 C:\Box Sync\SLN\Per\Apps\MultiTaskingWindowsAppSample\MultiTaskingWindowsAppSample\obj\Debug\MultiTaskingWindowsAppSample.pdb
 C:\Box Sync\SLN\Per\Apps\MultiTaskingWindowsAppSample\MultiTaskingWindowsAppSample\obj\Debug\MultiTaskingWindowsAppSample.csprojAssemblyReference.cache
+C:\Users\lSrikhakolanu\Downloads\temp 1\MultiTaskingInWindowsApp-main\MultiTaskingWindowsAppSample\bin\Debug\MultiTaskingWindowsAppSample.exe.config
+C:\Users\lSrikhakolanu\Downloads\temp 1\MultiTaskingInWindowsApp-main\MultiTaskingWindowsAppSample\bin\Debug\MultiTaskingWindowsAppSample.exe
+C:\Users\lSrikhakolanu\Downloads\temp 1\MultiTaskingInWindowsApp-main\MultiTaskingWindowsAppSample\bin\Debug\MultiTaskingWindowsAppSample.pdb
+C:\Users\lSrikhakolanu\Downloads\temp 1\MultiTaskingInWindowsApp-main\MultiTaskingWindowsAppSample\obj\Debug\MultiTaskingWindowsAppSample.csprojAssemblyReference.cache
+C:\Users\lSrikhakolanu\Downloads\temp 1\MultiTaskingInWindowsApp-main\MultiTaskingWindowsAppSample\obj\Debug\MultiTaskingWindowsAppSample.Form1.resources
+C:\Users\lSrikhakolanu\Downloads\temp 1\MultiTaskingInWindowsApp-main\MultiTaskingWindowsAppSample\obj\Debug\MultiTaskingWindowsAppSample.Properties.Resources.resources
+C:\Users\lSrikhakolanu\Downloads\temp 1\MultiTaskingInWindowsApp-main\MultiTaskingWindowsAppSample\obj\Debug\MultiTaskingWindowsAppSample.csproj.GenerateResource.cache
+C:\Users\lSrikhakolanu\Downloads\temp 1\MultiTaskingInWindowsApp-main\MultiTaskingWindowsAppSample\obj\Debug\MultiTaskingWindowsAppSample.csproj.CoreCompileInputs.cache
+C:\Users\lSrikhakolanu\Downloads\temp 1\MultiTaskingInWindowsApp-main\MultiTaskingWindowsAppSample\obj\Debug\MultiTaskingWindowsAppSample.exe
+C:\Users\lSrikhakolanu\Downloads\temp 1\MultiTaskingInWindowsApp-main\MultiTaskingWindowsAppSample\obj\Debug\MultiTaskingWindowsAppSample.pdb
