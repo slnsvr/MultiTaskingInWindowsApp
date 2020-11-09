@@ -1,0 +1,10 @@
+C:\Box Sync\SLN\Per\Apps\MultiTaskingWindowsAppSample\MultiTaskingWindowsAppSample\obj\Debug\MultiTaskingWindowsAppSample.Form1.resources
+C:\Box Sync\SLN\Per\Apps\MultiTaskingWindowsAppSample\MultiTaskingWindowsAppSample\obj\Debug\MultiTaskingWindowsAppSample.Properties.Resources.resources
+C:\Box Sync\SLN\Per\Apps\MultiTaskingWindowsAppSample\MultiTaskingWindowsAppSample\obj\Debug\MultiTaskingWindowsAppSample.csproj.GenerateResource.cache
+C:\Box Sync\SLN\Per\Apps\MultiTaskingWindowsAppSample\MultiTaskingWindowsAppSample\obj\Debug\MultiTaskingWindowsAppSample.csproj.CoreCompileInputs.cache
+C:\Box Sync\SLN\Per\Apps\MultiTaskingWindowsAppSample\MultiTaskingWindowsAppSample\bin\Debug\MultiTaskingWindowsAppSample.exe.config
+C:\Box Sync\SLN\Per\Apps\MultiTaskingWindowsAppSample\MultiTaskingWindowsAppSample\bin\Debug\MultiTaskingWindowsAppSample.exe
+C:\Box Sync\SLN\Per\Apps\MultiTaskingWindowsAppSample\MultiTaskingWindowsAppSample\bin\Debug\MultiTaskingWindowsAppSample.pdb
+C:\Box Sync\SLN\Per\Apps\MultiTaskingWindowsAppSample\MultiTaskingWindowsAppSample\obj\Debug\MultiTaskingWindowsAppSample.exe
+C:\Box Sync\SLN\Per\Apps\MultiTaskingWindowsAppSample\MultiTaskingWindowsAppSample\obj\Debug\MultiTaskingWindowsAppSample.pdb
+C:\Box Sync\SLN\Per\Apps\MultiTaskingWindowsAppSample\MultiTaskingWindowsAppSample\obj\Debug\MultiTaskingWindowsAppSample.csprojAssemblyReference.cache

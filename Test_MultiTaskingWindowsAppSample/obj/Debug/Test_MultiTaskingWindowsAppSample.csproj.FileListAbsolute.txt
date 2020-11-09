@@ -1,0 +1,14 @@
+C:\Box Sync\SLN\Per\Apps\MultiTaskingWindowsAppSample\Test_MultiTaskingWindowsAppSample\bin\Debug\Test_MultiTaskingWindowsAppSample.dll
+C:\Box Sync\SLN\Per\Apps\MultiTaskingWindowsAppSample\Test_MultiTaskingWindowsAppSample\bin\Debug\Test_MultiTaskingWindowsAppSample.pdb
+C:\Box Sync\SLN\Per\Apps\MultiTaskingWindowsAppSample\Test_MultiTaskingWindowsAppSample\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Box Sync\SLN\Per\Apps\MultiTaskingWindowsAppSample\Test_MultiTaskingWindowsAppSample\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Box Sync\SLN\Per\Apps\MultiTaskingWindowsAppSample\Test_MultiTaskingWindowsAppSample\bin\Debug\MultiTaskingWindowsAppSample.exe
+C:\Box Sync\SLN\Per\Apps\MultiTaskingWindowsAppSample\Test_MultiTaskingWindowsAppSample\bin\Debug\MultiTaskingWindowsAppSample.pdb
+C:\Box Sync\SLN\Per\Apps\MultiTaskingWindowsAppSample\Test_MultiTaskingWindowsAppSample\bin\Debug\MultiTaskingWindowsAppSample.exe.config
+C:\Box Sync\SLN\Per\Apps\MultiTaskingWindowsAppSample\Test_MultiTaskingWindowsAppSample\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Box Sync\SLN\Per\Apps\MultiTaskingWindowsAppSample\Test_MultiTaskingWindowsAppSample\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Box Sync\SLN\Per\Apps\MultiTaskingWindowsAppSample\Test_MultiTaskingWindowsAppSample\obj\Debug\Test_MultiTaskingWindowsAppSample.csprojAssemblyReference.cache
+C:\Box Sync\SLN\Per\Apps\MultiTaskingWindowsAppSample\Test_MultiTaskingWindowsAppSample\obj\Debug\Test_MultiTaskingWindowsAppSample.csproj.CoreCompileInputs.cache
+C:\Box Sync\SLN\Per\Apps\MultiTaskingWindowsAppSample\Test_MultiTaskingWindowsAppSample\obj\Debug\Test_MultiTaskingWindowsAppSample.csproj.CopyComplete
+C:\Box Sync\SLN\Per\Apps\MultiTaskingWindowsAppSample\Test_MultiTaskingWindowsAppSample\obj\Debug\Test_MultiTaskingWindowsAppSample.dll
+C:\Box Sync\SLN\Per\Apps\MultiTaskingWindowsAppSample\Test_MultiTaskingWindowsAppSample\obj\Debug\Test_MultiTaskingWindowsAppSample.pdb
