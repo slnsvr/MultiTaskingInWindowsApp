@@ -323,7 +323,6 @@
             this.Margin = new System.Windows.Forms.Padding(7);
             this.Name = "Form1";
             this.Text = "EmployeeDetails";
-            this.Click += new System.EventHandler(this.btnClear_Click);
             this.ResumeLayout(false);
             this.PerformLayout();
 
